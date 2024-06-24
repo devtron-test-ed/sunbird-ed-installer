@@ -1,0 +1,3 @@
+global:
+  google_captcha_private_key: test-secret
+  sunbird_google_captcha_site_key: test-key
